@@ -4,7 +4,9 @@ A cozy cocoa-and-amber Windows 11 theme collection, with matching browser, edito
 
 ## v1.0 — November 24, 2026
 
-The curated restore kit is named **MikanOS-Candlelight-v1.0.zip**. The archive was prepared and validated in ChatGPT; uploading the binary ZIP to this repository is still pending. Its SHA-256 is:
+**[Download MikanOS Candlelight v1.0](https://github.com/capnolithyl/mikan-os-assets/raw/refs/heads/main/MikanOS-Candlelight-v1.0.zip)** (19.2 MB).
+
+The restore kit is now available in this repository. The SHA-256 recorded when the archive was prepared is:
 
 ~~~text
 a3418b7ca0a4b5e9c745a0550160ee961979e25407b18c61aa982d7a6ff762ad
